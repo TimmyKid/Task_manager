@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor's Appointment",
+      "day": "May 7th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meet-up with Cliff and O'neil",
+      "day": "June 17th at 10:30am",
+      "reminder": true
+    },
+    {
+      "text": "Meeting with the Ratpacks",
+      "day": "When the full moon bloom's at 12:12am",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
